@@ -1,0 +1,21 @@
+{
+  "name": "dark-theme-makro",
+  "displayName": "Dark Theme MAKRO",
+  "description": "Dark theme for makro syntax highlighting",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MAKRO",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MAKRO-color-theme.json"
+      }
+    ]
+  }
+}
