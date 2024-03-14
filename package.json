@@ -3,6 +3,13 @@
   "displayName": "Dark Theme MAKRO",
   "description": "Dark theme for makro syntax highlighting",
   "version": "0.0.1",
+  "publisher": "jeppekinslev",
+  "repository": {
+    "url": "https://github.com/jeppekinslev/dark-theme-makro"
+  },
+  "engines": {
+    "vscode": "^1.87.0"
+  },
   "engines": {
     "vscode": "^1.87.0"
   },
