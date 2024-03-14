@@ -1,5 +1,5 @@
 # dark-theme-makro README
-Theme package to use for GAMS and the other package (https://github.com/jeppekinslev/makro-gams-highlighting).
+Theme package to use for GAMS aswekk as the package (https://github.com/jeppekinslev/makro-gams-highlighting).
 
 ## Features
 - Syntax highlighting
