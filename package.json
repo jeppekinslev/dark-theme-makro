@@ -10,9 +10,6 @@
   "engines": {
     "vscode": "^1.87.0"
   },
-  "engines": {
-    "vscode": "^1.87.0"
-  },
   "categories": [
     "Themes"
   ],
